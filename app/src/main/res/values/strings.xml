@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="my_song">My Song</string>
+    <string name="buttonPreviousTrack">Button</string>
+    <string name="buttonPlayBack">Button</string>
+    <string name="buttonNextTrack">Button</string>
+</resources>
